@@ -18,6 +18,7 @@
     [super viewDidLoad];
     // Do any additional setup after loading the view, typically from a nib.
     NSLog(@"ddd");
+    NSLog(@"的水电费水电费水电费");
 }
 
 - (void)didReceiveMemoryWarning {
