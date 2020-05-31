@@ -21,6 +21,7 @@
     NSLog(@"的水电费水电费水电费");
     NSLog(@"第三次添加");
     NSLog(@"第4次添加");
+     NSLog(@"第5次添加");
 }
 
 - (void)didReceiveMemoryWarning {
